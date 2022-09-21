@@ -1,4 +1,4 @@
-# はじめに
+## はじめに
 このレポジトリは、Cybozu Days 2022 Garoon ハンズオンセッションで利用する
 ハンズオン用ファイルを管理するためのもののです
 
@@ -10,9 +10,9 @@ Garoonのポータル上に、本日の休暇者を表示するためのカス�
 ### garoon_add_scheduleOrg.js
 予定登録時に、指定の組織も参加者に含めるカスタマイズ
 
-### garoon_portal_overwork.js
+### garoon_overtime_list.js
 Garoonのポータル上に今月の残業申請者の一覧を表示するためのカスタマイズ
 kintoneの指定のアプリから今月分の申請を抜き出し、表形式で表示します
 
-#### workflow_grkin.js
+#### garoon_workflow_grkin.js
 ワークフローが承認された際に、kintoneに連携するカスタマイズ
